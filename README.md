@@ -3,7 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Indigenous Health and Wellbeing – A Tableau Data Story </b>
-  - [Canadian Indigenous Communities Wellbieng Trends](https://github.com/SarthakTambe/Canadian-Indigenous-Communities-Wellbieng-Trends/tree/main)
+  - [Canadian Indigenous Communities Wellbieng Trends](https://github.com/SarthakTambe/Canadian-Indigenous-Communities-Wellbieng-Trends/tree/main) <b>
+  
 - <b>Walmart Product Demand using Predictive Analytics</b>
   - [Predict Product Demand for a Supply Chain System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Insurance Premium Prediction</b>
